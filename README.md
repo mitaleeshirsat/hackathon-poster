@@ -1,5 +1,5 @@
 # Hackathon Poster
-![Hackathon Poster Preview](./public/preview.png)
+
 
 ### Prerequisites
 
