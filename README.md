@@ -21,12 +21,13 @@ npm install
 3. Run the development server:
 ```bash
 npm run dev
+```
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 Boom! 💥 Your poster should be live.
 
-### My Approach
+## My Approach
 
 Broke down the design into key components: the "30", text blocks, and decorative shapes. Used Tailwind's responsive utilities to scale everything from mobile to desktop. 
 
